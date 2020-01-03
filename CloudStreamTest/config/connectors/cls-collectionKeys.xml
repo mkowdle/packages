@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CloudStreamTest.connectors:S3Upload" connectorServiceName="CloudStreamTest.connectors:S3Upload"/>
+            <keyDetails collectionKey="CloudStreamTest.connectors:downloadFile" connectorServiceName="CloudStreamTest.connectors:downloadFile"/>
+            <keyDetails collectionKey="CloudStreamTest.connectors:uploadFile" connectorServiceName="CloudStreamTest.connectors:uploadFile"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
