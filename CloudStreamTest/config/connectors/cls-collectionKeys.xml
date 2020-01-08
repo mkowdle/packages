@@ -4,6 +4,8 @@
         <servicesKeys>
             <keyDetails collectionKey="CloudStreamTest.connectors:S3Upload" connectorServiceName="CloudStreamTest.connectors:S3Upload"/>
             <keyDetails collectionKey="CloudStreamTest.connectors:downloadFile" connectorServiceName="CloudStreamTest.connectors:downloadFile"/>
+            <keyDetails collectionKey="CloudStreamTest.connectors:googleDriveCSConnector" connectorServiceName="CloudStreamTest.connectors:googleDriveCSConnector"/>
+            <keyDetails collectionKey="CloudStreamTest.connectors:googleSheetCSConnector" connectorServiceName="CloudStreamTest.connectors:googleSheetCSConnector"/>
             <keyDetails collectionKey="CloudStreamTest.connectors:uploadFile" connectorServiceName="CloudStreamTest.connectors:uploadFile"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
